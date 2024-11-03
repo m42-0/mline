@@ -26,6 +26,7 @@ p {
     align-items:start;
     padding-top:10px;
     padding-bottom:5px;
+    line-height:1.4;
 }
 .heading-element {
     font-family: Verdana;
